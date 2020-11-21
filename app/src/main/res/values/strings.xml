@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">YourLivestock</string>
+
+    <string name="login_tittle">TU GANADO</string>
+    <string name="login_hintDocumentNumber">Ingresar DNI</string>
+    <string name="login_hintPassword">Ingresar Contraseña</string>
+    <string name="login_login">INICIAR SESIÓN</string>
+    <string name="login_signup">REGISTRATE</string>
+
+    <string name="signup_documentNumber">Document Number</string>
+    <string name="signup_name">Name</string>
+    <string name="signup_emailAddress">Email Address</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_address">Address</string>
+    <string name="signup_phoneNumber">Phone Number</string>
+    <string name="signup_register">Register</string>
+    <string name="signup_privacy">By clicking Register, I agree that I have read and accepted the Terms of Use and Privacy Policy</string>
+
+    <string name="welcome_tittle">¡Bienvenido!</string>
+    <string name="welcome_register">Registro</string>
+    <string name="welcome_report">Reporte</string>
+    <string name="welcome_exit">Salir</string>
+    <string name="welcome_message">La mejor la aplicación para el control de ganado</string>
+</resources>
